@@ -1,0 +1,32 @@
+
+.container{
+width: auto;
+height: auto;
+align-items: center;
+}
+
+.frame-4{
+background-color:  lightgray;
+height: 44px;
+width: 1000px;
+float: left;
+display: flex;
+}
+.frame-1{
+background-color: lime;
+float: left;
+height: 44px;
+width: 100px;
+}
+.frame-2{
+background-color: blueviolet;
+float: left;
+height: 44px;
+width: 100px;
+}
+.frame-3{
+  background-color: magenta;
+  float: left;
+  height: 44px;
+width: 100px;
+}
